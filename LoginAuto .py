@@ -98,11 +98,11 @@ while True:
     if resp == 1:
         clicklogin()
         sp(0.4)
-        pyautogui.write("deusdwar19")
+        pyautogui.write("conta1")
         sp(0.4)
         clicksenha()
         sp(0.4)
-        pyautogui.write("123Weres32*")
+        pyautogui.write("senha1*")
         clickentrar()
         sp(7)
         abrirlol()
@@ -112,11 +112,11 @@ while True:
     if resp == 2:
         clicklogin()
         sp(0.4)
-        pyautogui.write("vulgotrash")
+        pyautogui.write("conta2")
         sp(0.4)
         clicksenha()
         sp(0.4)
-        pyautogui.write("t88613793")
+        pyautogui.write("senha2")
         clickentrar()
         sp(7)
         abrirlol()
@@ -126,20 +126,15 @@ while True:
     if resp == 3:
         clicklogin()
         sp(0.4)
-        pyautogui.write("lottuskiller07")
+        pyautogui.write("conta3")
         sp(0.4)
         clicksenha()
         sp(0.4)
-        pyautogui.write("lolf4ever")
+        pyautogui.write("senha3")
         clickentrar()
         sp(7)
         abrirlol()
         sp(1)
         click(x=217, y=273)
         break
-    
-input("\n \n \n \n \n \n \n \n \n \
-_  _     _ __\n\
-|_)| \\ /||_  /\n\
-| \\|_/  | _)/\
-")
+
